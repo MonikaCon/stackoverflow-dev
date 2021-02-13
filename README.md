@@ -30,6 +30,7 @@ Requirements file lists all additional packages .
 ## Results
 The findings of the overtime analysis work could be found [here](blogpostlink)
 
-##Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information available [here](https://insights.stackoverflow.com/survey).
+Readme file structure is inspired from udacity course.
