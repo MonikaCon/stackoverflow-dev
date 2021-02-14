@@ -13,11 +13,9 @@ The code should run with no issues using Python versions 3.8.5
 ## Project Motivation
 For this project, i am studying stackoverflow developer - 2020 dataset. 
 
-1. How frequently the developers do overtime ?
-2. What percentage of all respondents and professional developers do overtime most frequently ?
-3. Do small organization have people working overtime more frequently ?
-4. Is employment have any role in overtime ?
-5. Which country have people working overtime more frequently ?
+1. What percent of developers do frequent overtime?
+2. Do more developers do frequent overtime in large organizations?
+3. From the top 10 countries with the highest number of developers, in which country more developers do frequent overtime?
 
 ## Repository Structure
 - data
