@@ -26,7 +26,7 @@ This folder contains stackoverflow developer survey - 2020 data that will be use
 This folder contains analysis and model notebooks. Each notebook answers question raised in the title of the notebook.
 Requirements file lists all additional packages .
 ## Results
-The findings of the overtime analysis work could be found [here](blogpostlink)
+The findings of the overtime analysis work could be found [here](https://monika71190.medium.com/understanding-overtime-in-developers-2cb00d8441da)
 
 ## Licensing, Authors, Acknowledgements
 
